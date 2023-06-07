@@ -1,5 +1,5 @@
 ## Hi there 👋🏻👩🏻‍💻
-I'm Chandra, a Junior Fullstack Web Developer from Italy 🇮🇹  
+I'm Morena, a Junior Fullstack Web Developer from Italy 🇮🇹  
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
