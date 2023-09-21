@@ -13,7 +13,7 @@ I'm Morena, a Junior Fullstack Web Developer from Italy.
 
 ### About me
 
-* 💻 Student at [Digitazon Tech School](https://www.digitazon.school/)
+* 💻 Certified at [Digitazon Tech School](https://www.digitazon.school/)
 * 📚 Graduated in Tourism Economics & Management in 2022
 
 
